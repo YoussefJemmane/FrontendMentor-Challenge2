@@ -33,7 +33,7 @@ Users should be able to:
 ![](./screenshot1.png)
 
 - Mobile View
-<br>
+
 ![](./screenshot2.png)
 
 ### Links
