@@ -22,7 +22,7 @@ module.exports = {
         "fraunces": ['"Fraunces"', 'serif'],
       },
       screens: {
-        mobile: "375px",
+        mobile: "767px",
         desktop: "1440px",
       },
       width:{

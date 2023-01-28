@@ -6,7 +6,7 @@ function App() {
   const [imageSrc, setImageSrc] = useState(imgd);
   useEffect(() => {
     const handleResize = () => {
-      if (window.matchMedia("(max-width: 375px)").matches) {
+      if (window.matchMedia("(max-width: 767px)").matches) {
         setImageSrc(imgm);
       } else {
         setImageSrc(imgd);
